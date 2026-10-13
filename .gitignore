@@ -1,0 +1,19 @@
+# dados brutos e banco gerado (reproduzíveis)
+data/
+olist.db
+powerbi/dados/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# sistema / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.tmp
+~$*
